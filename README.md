@@ -1,9 +1,8 @@
-# CV_Project
-This is project that adopt HTML, CSS, and JAVA Script to create a web-based CV
-The URL for the project is 
- https://github.com/Scopre/CV_Project 
- https://github.com/Scopre?tab=repositories
-## Project Live Demo
-🔗 [View Project](https://your-username.github.io/cv-project/)
+# My CV Project
 
-https://github.com/Scopre/CV_Project 
+This is a project that adopts HTML, CSS, and JavaScript to create a web-based CV.
+
+## 🔗 Project URLs
+
+- **GitHub Repository:** [View Code](https://github.com/Scopre/CV_Project)
+- **Live Demo:** [View Project](https://scopre.github.io/CV_Project/) 
